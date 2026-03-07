@@ -1,4 +1,4 @@
-🔐 ##**Proyecto Final – Criptografía con Curvas Elípticas (ECC)**
+## 🔐 **Proyecto Final – Criptografía con Curvas Elípticas (ECC)**
 
 Implementación completa de un sistema de intercambio de claves basado en Criptografía de Curvas Elípticas, integrando:
 
@@ -11,10 +11,12 @@ Cifrado autenticado con AES-GCM
 El proyecto combina:
 
 ✔️ Fundamento matemático
+
 ✔️ Implementación manual de ECC
+
 ✔️ Componentes criptográficos reales usados en la industria
 
-🎯 ##**Objetivo**
+## 🎯 **Objetivo**
 
 Simular un sistema seguro de comunicación entre Alice y Bob donde:
 
@@ -30,12 +32,12 @@ Cifran y descifran un mensaje
 
 Todo mostrando el proceso paso a paso.
 
-▶️ ## **Ejecución**
+## ▶️  **Ejecución**
 
 Abir el notebook en Jupyter Notebook
 Ejecutar celda por celda para observar:
 
-Generación de claves
+- Generación de claves
 
 - Intercambio
 
@@ -47,18 +49,16 @@ Generación de claves
 
 - Descifrado
 
-📌 ## **Enfoque Académico**
+## 📌 **Enfoque Académico**
 
 Este proyecto integra:
 
-Álgebra abstracta
+- Álgebra abstracta
 
-Teoría de números
+- Teoría de números
 
-Criptografía moderna
+- Criptografía moderna
 
-Implementación práctica
+- Implementación práctica
 
-Proyecto desarrollado como trabajo final del curso:
-
-Criptografia por cifrado de Curvas Elípticas
+## Proyecto desarrollado como trabajo final del curso Criptografia por cifrado de Curvas Elípticas
