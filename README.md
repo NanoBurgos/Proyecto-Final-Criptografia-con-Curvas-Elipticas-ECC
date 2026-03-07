@@ -20,23 +20,23 @@ El proyecto combina:
 
 Simular un sistema seguro de comunicación entre Alice y Bob donde:
 
-Generan claves pública / privada
+- Generan claves pública / privada
 
-Realizan intercambio seguro mediante ECDH
+- Realizan intercambio seguro mediante ECDH
 
-Obtienen un secreto compartido
+- Obtienen un secreto compartido
 
-Derivan una clave simétrica
+- Derivan una clave simétrica
 
-Cifran y descifran un mensaje
+- Cifran y descifran un mensaje
 
-Todo mostrando el proceso paso a paso.
+- Todo mostrando el proceso paso a paso.
 
 ## ▶️  **Ejecución**
 
 Abrir el notebook en Jupyter Notebook
 
-Ejecutar celda por celda para observar:
+**Ejecutar celda por celda para observar:**
 
 - Generación de claves
 
