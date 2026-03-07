@@ -34,7 +34,8 @@ Todo mostrando el proceso paso a paso.
 
 ## ▶️  **Ejecución**
 
-Abir el notebook en Jupyter Notebook
+Abrir el notebook en Jupyter Notebook
+
 Ejecutar celda por celda para observar:
 
 - Generación de claves
